@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Task_Testing", "UI_Task_Testing\UI_Task_Testing.csproj", "{F52AFA27-AA3E-447A-848E-299D0461DAB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Runners_Task_Testing", "UI_Task_Testing\Runners_Task_Testing.csproj", "{F52AFA27-AA3E-447A-848E-299D0461DAB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
